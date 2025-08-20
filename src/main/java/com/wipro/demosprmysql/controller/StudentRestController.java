@@ -23,7 +23,7 @@ public class StudentRestController {
 
 	@GetMapping("/getAll")
 	public List<Student> getAllStudents() {
-
+		System.out.println("----------------------------------STUDDDEENNTT SERRVICEEEE______________");
 		return studentService.getAllStudents();
 	}
 
