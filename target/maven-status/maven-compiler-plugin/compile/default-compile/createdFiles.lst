@@ -1,0 +1,6 @@
+com\wipro\demosprmysql\repository\StudentRepository.class
+com\wipro\demosprmysql\service\StudentService.class
+com\wipro\demosprmysql\service\StudentServiceImpl.class
+com\wipro\demosprmysql\DemosprmysqlApplication.class
+com\wipro\demosprmysql\entity\Student.class
+com\wipro\demosprmysql\controller\StudentRestController.class
